@@ -19,7 +19,7 @@ This project uses JavaScript and HTML5 Canvas to render an animated, waving Indi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/chinmaykothari/indian-flag-waving.git
+   git clone https://github.com/chinmaykothari/Indian-Flag-JS.git
    cd indian-flag-waving
    ```
 
